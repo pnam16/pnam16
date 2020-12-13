@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at Hanoi University of Industry
 ### Top languages:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=radical
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=radical)
