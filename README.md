@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m software engineer
 - 🌱 I’m currently learning at Hanoi University of Industry
 ### Top languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=radical
