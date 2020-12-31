@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ### Top languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=nightowl)
-[Facebook]: https://fb.com/namnam2k
+[Facebook](https://fb.com/namnam2k)
