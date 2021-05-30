@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m software engineer
 - 🌱 I’m currently learning at Hanoi University of Industry
-- 📫 How to reach me: [Facebook](https://fb.com/namnam2k)
+- 📫 How to reach me: [Facebook](https://fb.com/namnam2k){:target="_blank"}
 ### Top languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=nightowl)
