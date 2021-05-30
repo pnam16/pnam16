@@ -5,4 +5,4 @@
 - 📫 How to reach me: [Facebook](https://fb.com/namnam2k)
 ### Top languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnam29&theme=radical)
