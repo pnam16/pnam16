@@ -1,4 +1,4 @@
-<img src="dino.gif" alt="" style={{width: "100%"}} />
+<img src="dino.gif" alt="" style="width:100% >
 <h1 align="center">Hi 👋, I'm PNam</h1>
 
 - 🔭 I’m software engineer
