@@ -3,7 +3,7 @@
 
 📫 How to reach me: [Facebook](https://fb.com/namnam2k)
 <div style="display: flex; justify-content: space-between; ">
-  <div>
+  <div style="max-width: 35%;">
     <h3 align="left">Programming Languages:</h3>
     <div>
       <a href="https://www.cprogramming.com/" target="_blank">
