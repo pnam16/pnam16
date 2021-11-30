@@ -54,7 +54,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
                     </a>
                     <a href="https://getbootstrap.com/" target="_blank" alt="Bootstrap">
-                      <img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" />
+                      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40" />
                     </a>
                     <a href="https://bulma.io/" target="_blank">
                         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" />
