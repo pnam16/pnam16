@@ -176,8 +176,5 @@
             <div>
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnam29&show_icons=true&locale=en&layout=compact" alt="pnam29" />
             </div>
-            <div>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnam29&" alt="pnam29" />
-            </div>
         </div>
     </div>
