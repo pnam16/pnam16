@@ -2,12 +2,8 @@
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
 📫 How to reach me: [Facebook](https://fb.com/namnam2k)
+📫 My email: phuongnamhn2000@gmail.com
 
-  <div>
-      <a href="https://app.daily.dev/ame">
-          <img src="https://api.daily.dev/devcards/a21f9bd575a444d19981e3ac591bf5f3.png?r=hfo" width="200" alt="Ame's Dev Card" />
-      </a>
-  </div>
     <div class="container">
         <div class="left">
             <h3 align="left">Programming Languages:</h3>
