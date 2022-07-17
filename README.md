@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm PNam</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+<img width="100%" align="right" alt="Header" src="https://raw.githubusercontent.com/mahdidev78/.github/master/.res/.drawable/profile-header.svg" />
 
-📫 How to reach me: [Facebook](https://fb.com/namnam2k) <br/>
-📫 My email: pnam@duck.com
+<h2>Hi 👋, I'm PNam</h2>
+
+---
+
+- A passionate developer from Viet Nam 🇻🇳
+- My email: [PNam](pnam@duck.com)
 
 <div class="container">
   <div class="left">
     <h3 align="left">Programming Languages:</h3>
     <div>
-      <a href="https://www.cprogramming.com/" target="_blank">
+      <!-- <a href="https://www.cprogramming.com/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
           alt="c"
@@ -19,7 +22,7 @@
       <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          alt="cplusplus"
+          alt="c++"
           width="40"
           height="40"
         />
@@ -39,7 +42,7 @@
           width="40"
           height="40"
         />
-      </a>
+      </a> -->
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -156,7 +159,7 @@
           />
         </a>
       </div>
-      <div>
+      <!-- <div>
         <a href="https://babeljs.io/" target="_blank">
           <img
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
@@ -173,7 +176,7 @@
             height="40"
           />
         </a>
-      </div>
+      </div> -->
     </div>
     <h3 align="left">Backend Development:</h3>
     <div>
@@ -193,14 +196,14 @@
           height="40"
         />
       </a>
-      <a href="https://www.nginx.com" target="_blank">
+      <!-- <a href="https://www.nginx.com" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
           alt="nginx"
           width="40"
           height="40"
         />
-      </a>
+      </a> -->
       <a href="https://nodejs.org" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -247,11 +250,37 @@
       <a href="https://reactnative.dev/" target="_blank">
         <img
           src="https://reactnative.dev/img/header_logo.svg"
-          alt="reactnative"
+          alt="react native"
           width="40"
           height="40"
         />
       </a>
+    </div>
+      <a href="https://reactnavigation.org/" target="_blank">
+        <img
+          src="https://reactnavigation.org/img/spiro.svg"
+          alt="react native navigation"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://reactnativeelements.com/" target="_blank">
+        <img
+          src="https://reactnativeelements.com/img/website/logo.png"
+          alt="react native elements"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://wix.github.io/react-native-ui-lib/" target="_blank">
+        <img
+          src="https://wix.github.io/react-native-ui-lib/img/logo.png"
+          alt="rnuilib"
+          width="40"
+          height="40"
+        />
+      </a>
+    <div>
     </div>
     <h3 align="left">Database:</h3>
     <div>
@@ -303,20 +332,6 @@
           height="40"
         />
       </a>
-    </div>
-    <h3 align="left">Devops:</h3>
-    <div>
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img
-          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-          alt="bash"
-          width="40"
-          height="40"
-        />
-      </a>
-      <!-- <a href="https://www.docker.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-                </a> -->
     </div>
     <h3 align="left">Testing:</h3>
     <div>
@@ -386,6 +401,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img
+          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+          alt="bash"
           width="40"
           height="40"
         />
