@@ -4,7 +4,7 @@
 <h2>Hi 👋, I'm PNam</h2>
 
 - A passionate developer from Viet Nam 🇻🇳
-- My email: [PNam](pnam@duck.com)
+- My email: pnam@duck.com
 
 <div class="container">
   <div class="left">
