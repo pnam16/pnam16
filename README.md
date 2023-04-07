@@ -4,7 +4,7 @@
 <h2>Hi 👋, I'm PNam</h2>
 
 - A passionate developer from Viet Nam 🇻🇳
-- My email: pnam@duck.com
+- My email: pnamhn16@gmail.com
 
 <div class="container">
   <div class="left">
@@ -33,7 +33,7 @@
           width="40"
           height="40"
         />
-      </a>
+      </a>  -->
       <a href="https://www.java.com" target="_blank">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -41,7 +41,7 @@
           width="40"
           height="40"
         />
-      </a> -->
+      </a>
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
