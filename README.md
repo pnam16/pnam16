@@ -414,7 +414,7 @@
       </a>
     </div>
   </div>
-  <div class="right">
+<!--   <div class="right">
     <div>
       <img
         align="center"
@@ -422,5 +422,5 @@
         alt="pnam29"
       />
     </div>
-  </div>
+  </div> -->
 </div>
