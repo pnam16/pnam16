@@ -379,7 +379,7 @@
       </a>
       <a href="https://helpx.adobe.com/vn_vi/xd/get-started.html" target="_blank">
         <img
-          src="https://commons.wikimedia.org/w/index.php?curid=65689708"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1920px-Adobe_XD_CC_icon.svg.png"
           alt="xd"
           width="40"
           height="40"
