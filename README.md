@@ -377,7 +377,7 @@
           height="40"
         />
       </a>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank">
+      <a href="https://helpx.adobe.com/vn_vi/xd/get-started.html" target="_blank">
         <img
           src="https://commons.wikimedia.org/w/index.php?curid=65689708"
           alt="xd"
