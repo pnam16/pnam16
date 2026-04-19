@@ -17,7 +17,7 @@
 
 ## About Me
 
-- Building modern products with `TypeScript`, `React`, `Next.js`, `Node.js`, and `Flutter`.
+- I focus on building performant, user-centric applications from idea to production.
 - Comfortable across frontend, backend, mobile, and database design.
 - Always learning and improving software quality, performance, and developer experience.
 
