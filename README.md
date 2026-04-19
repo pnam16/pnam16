@@ -8,10 +8,13 @@
 
 <p align="center">
   <a href="mailto:pnamhn16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pnamhn16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/pnam29">
-    <img src="https://img.shields.io/badge/GitHub-pnam29-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/pnam16">
+    <img src="https://img.shields.io/badge/LinkedIn-pnam16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pnam16">
+    <img src="https://img.shields.io/badge/GitHub-pnam16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
