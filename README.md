@@ -21,6 +21,13 @@
 - Comfortable across frontend, backend, mobile, and database design.
 - Always learning and improving software quality, performance, and developer experience.
 
+## Open to Opportunities
+
+- Open to **Fullstack** and **Backend** roles, especially product-focused teams.
+- Interested in projects involving `Java/Spring Boot`, `Node.js`, microservices, and distributed systems.
+- Available for collaboration on healthcare, enterprise platforms, and financial technology products.
+- Contact: `pnamhn16@gmail.com` or [LinkedIn](https://linkedin.com/in/pnam16).
+
 ## Tech Stack
 
 ### Backend and API
