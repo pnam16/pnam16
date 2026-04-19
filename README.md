@@ -1,4 +1,4 @@
-<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=PNam%20-%20Full%20Stack%20Developer&fontSize=34&fontAlignY=35&desc=Building%20useful%20products%20with%20clean%20code&descAlignY=55&color=0:0f172a,100:2563eb" />
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=PNam%20-%20Full%20Stack%20Developer&fontSize=34&fontAlignY=35&fontColor=ffffff&desc=Building%20useful%20products%20with%20clean%20code&descAlignY=55&descColor=e2e8f0&color=0:0f172a,100:2563eb" />
 
 <h1 align="center">Hi, I'm PNam 👋</h1>
 <p align="center">
