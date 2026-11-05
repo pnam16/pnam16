@@ -29,7 +29,7 @@
 - Open to **Fullstack** and **Backend** roles, especially product-focused teams.
 - Interested in projects involving `Java/Spring Boot`, `Node.js`, microservices, and distributed systems.
 - Available for collaboration on healthcare, enterprise platforms, and financial technology products.
-- Contact: `pnamhn16@gmail.com` or [LinkedIn](https://linkedin.com/in/pnam16).
+- Contact: [PNam](mailto:pnamhn16@gmail.com) or [LinkedIn](https://linkedin.com/in/pnam16).
 
 ## Tech Stack
 
@@ -87,17 +87,6 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pnam16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnam16&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnam16&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
