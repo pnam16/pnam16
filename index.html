@@ -7,21 +7,159 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Readme</title>
   <style>
+    :root {
+      --bg: #f4f6fb;
+      --card: #ffffff;
+      --tile: #f0f2f7;
+      --text: #1b1f24;
+      --muted: #5b6573;
+      --accent: #3b82f6;
+      --border: #e3e7ef;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1117;
+        --card: #161b22;
+        --tile: #21262d;
+        --text: #e6edf3;
+        --muted: #8b949e;
+        --accent: #58a6ff;
+        --border: #30363d;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 32px 16px;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Aptos, "Segoe UI", system-ui, -apple-system, sans-serif;
+      line-height: 1.5;
+    }
+
+    .intro {
+      max-width: 1100px;
+      margin: 0 auto 24px;
+      padding: 16px 24px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      font-size: 1.05rem;
+    }
+
+    .intro a {
+      color: var(--accent);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .intro a:hover {
+      text-decoration: underline;
+    }
+
     .container {
       display: flex;
-      justify-content: space-between;
+      gap: 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+      align-items: flex-start;
+    }
+
+    .left {
+      flex: 1;
+      min-width: 0;
+      padding: 8px 24px 24px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+    }
+
+    .left h3 {
+      margin: 24px 0 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .left div {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .left a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 60px;
+      height: 60px;
+      background: var(--tile);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      color: var(--text);
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .left a:hover,
+    .left a:focus-visible {
+      transform: translateY(-3px);
+      border-color: var(--accent);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+    }
+
+    .left a img,
+    .left a svg {
+      width: 36px;
+      height: 36px;
+      object-fit: contain;
     }
 
     .right {
       display: flex;
       flex-direction: column;
-      align-items: flex-end;
+      gap: 16px;
+      width: 360px;
+      flex-shrink: 0;
+    }
+
+    .right > div {
+      padding: 12px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      text-align: center;
+    }
+
+    .right img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    @media (max-width: 860px) {
+      .container {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .right {
+        width: 100%;
+      }
     }
   </style>
 </head>
 
 <body>
-  📫 How to reach me: [Facebook](https://fb.com/namnam2k)
+  <header class="intro">📫 How to reach me: <a href="https://fb.com/namnam2k" target="_blank">Facebook</a></header>
   <div class="container">
     <div class="left">
       <h3 align="left">Programming Languages:</h3>
